@@ -1,0 +1,52 @@
+Welcome to Top Flight Airlines! 
+Please select your seat(select 1 for First class and 2 for Economy)!
+1
+We only have 4 seat left for First Class for you selection
+
+Welcome to Top Flight Airlines! 
+Please select your seat(select 1 for First class and 2 for Economy)!
+1
+We only have 3 seat left for First Class for you selection
+
+Welcome to Top Flight Airlines! 
+Please select your seat(select 1 for First class and 2 for Economy)!
+1
+We only have 2 seat left for First Class for you selection
+
+Welcome to Top Flight Airlines! 
+Please select your seat(select 1 for First class and 2 for Economy)!
+1
+We only have 1 seat left for First Class for you selection
+
+Welcome to Top Flight Airlines! 
+Please select your seat(select 1 for First class and 2 for Economy)!
+1
+We only have 0 seat left for First Class for you selection
+
+We are out of First Class seats. Would you like to try another option?(Enter Y for YES or N for NO)
+y
+We only have 4 seat left for Economy for you selection
+
+Welcome to Top Flight Airlines! 
+Please select your seat(select 1 for First class and 2 for Economy)!
+2
+We only have 3 seat left for Economy for you selection
+
+Welcome to Top Flight Airlines! 
+Please select your seat(select 1 for First class and 2 for Economy)!
+2
+We only have 2 seat left for Economy for you selection
+
+Welcome to Top Flight Airlines! 
+Please select your seat(select 1 for First class and 2 for Economy)!
+2
+We only have 1 seat left for Economy for you selection
+
+Welcome to Top Flight Airlines! 
+Please select your seat(select 1 for First class and 2 for Economy)!
+2
+We only have 0 seat left for Economy for you selection
+
+We are out of Economy seats. Would you like to try another option?(Enter Y for YES or N for NO)
+y
+All seats are booked. Our next flight will be in 3 hours.[true, true, true, true, true, true, true, true, true, true]

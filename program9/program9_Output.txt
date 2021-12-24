@@ -1,0 +1,42 @@
+Month 01 Balance: $2,006.67
+Month 02 Balance: $2,013.33
+Month 03 Balance: $2,020.00
+Month 04 Balance: $2,026.67
+Month 05 Balance: $2,033.33
+Month 06 Balance: $2,040.00
+Month 07 Balance: $2,046.67
+Month 08 Balance: $2,053.33
+Month 09 Balance: $2,060.00
+Month 10 Balance: $2,066.67
+Month 11 Balance: $2,073.33
+Month 12 Balance: $2,080.00
+Annual Rate: 4.00
+Begin Balance: $2,000.00
+Ending Balance:$2,080.00
+Monthly Interest: 6.67
+Deposit Amount: $1,500.00
+New Balance: $3,580.00
+Updated Rate 5.00
+One Month Balance: $3,594.92
+
+Month 01 Balance: $3,010.00
+Month 02 Balance: $3,020.00
+Month 03 Balance: $3,030.00
+Month 04 Balance: $3,040.00
+Month 05 Balance: $3,050.00
+Month 06 Balance: $3,060.00
+Month 07 Balance: $3,070.00
+Month 08 Balance: $3,080.00
+Month 09 Balance: $3,090.00
+Month 10 Balance: $3,100.00
+Month 11 Balance: $3,110.00
+Month 12 Balance: $3,120.00
+Annual Rate: 4.00
+Begin Balance: $3,000.00
+Ending Balance:$3,120.00
+Monthly Interest: 10.00
+2620.0
+Withdraw Amount: $500.00
+New Balance: $2,620.00
+Updated Rate 5.00
+One Month Balance: $2,630.92

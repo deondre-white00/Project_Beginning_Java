@@ -1,0 +1,98 @@
+Please enter first name: 
+john
+Please enter last name: 
+doe
+Enter hourly rate: 
+35.10
+Enter hours worked: 
+40
+Regular Hours: 40.0
+Overtime Hours: 0.0
+Enter hours worked: 
+30
+Regular Hours: 70.0
+Overtime Hours: 0.0
+Enter hours worked: 
+40
+Regular Hours: 110.0
+Overtime Hours: 0.0
+Enter hours worked: 
+35
+Regular Hours: 145.0
+Overtime Hours: 0.0
+Employee: john doe
+Pay rate: 35.10
+Total hours worked: 145.00: 
+Total regular hours worked: 145.00 
+Total overtime hours worked: 0.00 
+Monthly Regular Pay: $5,089.50 
+Monthly overtime pay: $0.00 
+Monthly gross pay: $5,089.50 
+Monthly taxes: $1,425.06 
+Monthly net pay: $3,664.44 
+Please enter first name: 
+jane
+Please enter last name: 
+doe
+Enter hourly rate: 
+37.20
+Enter hours worked: 
+40
+Regular Hours: 40.0
+Overtime Hours: 0.0
+Enter hours worked: 
+40
+Regular Hours: 80.0
+Overtime Hours: 0.0
+Enter hours worked: 
+40
+Regular Hours: 120.0
+Overtime Hours: 0.0
+Enter hours worked: 
+40
+Regular Hours: 160.0
+Overtime Hours: 0.0
+Employee: jane doe
+Pay rate: 37.20
+Total hours worked: 160.00: 
+Total regular hours worked: 160.00 
+Total overtime hours worked: 0.00 
+Monthly Regular Pay: $5,952.00 
+Monthly overtime pay: $0.00 
+Monthly gross pay: $5,952.00 
+Monthly taxes: $1,666.56 
+Monthly net pay: $4,285.44 
+Please enter first name: 
+DeonDre
+Please enter last name: 
+White
+Enter hourly rate: 
+65.50
+Enter hours worked: 
+50
+Regular Hours: 40.0
+Overtime Hours: 10.0
+Enter hours worked: 
+35
+Regular Hours: 75.0
+Overtime Hours: 10.0
+Enter hours worked: 
+40
+Regular Hours: 115.0
+Overtime Hours: 10.0
+Enter hours worked: 
+55
+Regular Hours: 155.0
+Overtime Hours: 25.0
+Employee: DeonDre White
+Pay rate: 65.50
+Total hours worked: 180.00: 
+Total regular hours worked: 155.00 
+Total overtime hours worked: 25.00 
+Monthly Regular Pay: $10,152.50 
+Monthly overtime pay: $2,456.25 
+Monthly gross pay: $12,608.75 
+Monthly taxes: $4,539.15 
+Monthly net pay: $8,069.60 
+Please enter first name: 
+no

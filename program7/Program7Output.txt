@@ -1,0 +1,23 @@
+How much is 1 times 9: 9
+Very Good!
+How much is 1 times 1: 1
+Very Good!
+How much is 9 times 9: 6
+No. Keep trying!
+How much is 9 times 9: 81
+Very Good!
+How much is 7 times 5: 35
+Keep up the good work!
+How much is 7 times 0: 0
+Nice work!
+How much is 9 times 4: 36
+Keep up the good work!
+Would you like to continue testing? ('Y' for YES or 'N' for No)y
+How much is 9 times 1: 9
+Very Good!
+Would you like to continue testing? ('Y' for YES or 'N' for No)m
+You did not enter an appropriate response!!
+Would you like to continue testing? ('Y' for YES or 'N' for No)1
+You did not enter an appropriate response!!
+Would you like to continue testing? ('Y' for YES or 'N' for No)n
+Thank you for playing!!

@@ -1,0 +1,24 @@
+Enter quantity of packages requested: 
+5
+Number of units purchased is: 5
+Discount applied is: 0%
+Cost before discount is applied: $104.00
+Total savings due to discount is: $0.00
+The total cost of the purchase is: $104.00
+
+Enter quantity of packages requested: 
+66
+Number of units purchased is: 66
+Discount applied is: 27%
+Cost before discount is applied: $165.00
+Total savings due to discount is: $44.55
+The total cost of the purchase is: $120.45
+
+Enter quantity of packages requested: 
+210
+Number of units purchased is: 210
+Discount applied is: 48%
+Cost before discount is applied: $309.00
+Total savings due to discount is: $148.32
+The total cost of the purchase is: $160.68
+

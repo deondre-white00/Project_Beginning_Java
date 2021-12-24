@@ -1,0 +1,36 @@
+Enter Date:
+04/12/2018
+April 12, 2018
+
+Do you have another date you'd like to enter?(Enter "Yes" or "No")
+yes
+Enter Date:
+13/01/2000
+Month range must be within 1-12
+
+Do you have another date you'd like to enter?(Enter "Yes" or "No")
+yes
+Enter Date:
+02/29/2015
+February 29, 2015
+
+Do you have another date you'd like to enter?(Enter "Yes" or "No")
+yes
+Enter Date:
+01/01/2014
+January 01, 2014
+
+Do you have another date you'd like to enter?(Enter "Yes" or "No")
+yes
+Enter Date:
+09/31/2016
+September 31, 2016
+
+Do you have another date you'd like to enter?(Enter "Yes" or "No")
+yes
+Enter Date:
+05/01/2018
+May 01, 2018
+
+Do you have another date you'd like to enter?(Enter "Yes" or "No")
+no

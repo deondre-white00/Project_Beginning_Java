@@ -1,0 +1,17 @@
+Run1
+Hello, please enter your name: Dre
+How many miles do you drive on a daily?25
+What is the cost of gas per gallon?2.25
+Please enter your average MPG:24
+What do you pay in parking fees?2.45
+What do you pay in tolls per day?2.50
+Dre, your daily driving cost is listed as $7.29.
+
+Run2
+Hello, please enter your name: Eddie
+How many miles do you drive on a daily?40
+What is the cost of gas per gallon?2.25
+Please enter your average MPG:30
+What do you pay in parking fees?5.00
+What do you pay in tolls per day?1.45
+Eddie, your daily driving cost is listed as $9.45.

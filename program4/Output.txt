@@ -1,0 +1,52 @@
+Enter employee ID: 
+1001
+Enter the employee's hourly rate: 
+10.00
+Enter number of hours worked: 
+35
+ID Number: 1001
+Pay Rate: $10.00
+Regular Hours: 35.00
+Overtime Hours: 0.00
+Total Hours: 35.00
+Regular Pay: $350.00
+Overtime Pay: $0.00
+Gross Pay: $350.00
+Deductions: $20.00
+Net Pay: $330.00
+
+
+Enter employee ID: 
+2002
+Enter the employee's hourly rate: 
+35.50
+Enter number of hours worked: 
+40
+ID Number: 2002
+Pay Rate: $35.50
+Regular Hours: 40.00
+Overtime Hours: 0.00
+Total Hours: 40.00
+Regular Pay: $1420.00
+Overtime Pay: $0.00
+Gross Pay: $1420.00
+Deductions: $233.00
+Net Pay: $1187.00
+
+
+Enter employee ID: 
+3003
+Enter the employee's hourly rate: 
+10.50
+Enter number of hours worked: 
+50
+ID Number: 3003
+Pay Rate: $10.50
+Regular Hours: 40.00
+Overtime Hours: 10.00
+Total Hours: 50.00
+Regular Pay: $420.00
+Overtime Pay: $157.50
+Gross Pay: $577.50
+Deductions: $106.63
+Net Pay: $470.88

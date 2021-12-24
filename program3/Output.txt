@@ -1,0 +1,13 @@
+First Name: John
+Last Name: Doe
+Monthly Salary $2875.00
+Yearly salary: $34500.00
+Raise total: $5175.00
+New salary: $39675.00
+
+First Name: Jane
+Last Name: Doe
+Monthly Salary $3150.75
+Yearly salary: $37809.00
+Raise total: $5671.35
+New salary: $43480.35
